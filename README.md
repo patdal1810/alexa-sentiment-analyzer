@@ -1,6 +1,6 @@
-# Amazon Echo Review Sentiment Analyzer 🎧🗣️
+# Amazon Echo Review Sentiment Analyzer 
 
-This project uses real Amazon Echo Dot reviews to train a **multiclass sentiment analysis model** that classifies reviews as:
+This project uses real Amazon Echo Dot 2 reviews to train a **multiclass sentiment analysis model** that classifies reviews as:
 
 - 😢 **Negative**
 - 😎 **Neutral**
